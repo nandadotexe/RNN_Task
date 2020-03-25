@@ -1,0 +1,4 @@
+https://www.kaggle.com/nursah/airline-tweets-sentiment-analysis
+https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
+https://www.kaggle.com/benhamner/clinton-trump-tweets
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
